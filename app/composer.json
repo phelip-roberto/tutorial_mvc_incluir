@@ -1,0 +1,20 @@
+{
+    "name": "phelip/tutorial-mvc",
+    "description": "Criando uma aplicação mvc com php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phelip",
+            "email": "pheliproberto11@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "TutorialMvc\\": "src"
+        }
+    }
+}
