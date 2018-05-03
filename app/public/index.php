@@ -1,8 +1,11 @@
 <?php
 
 require '../vendor/autoload.php'; //autoloader do composer
+
 $router = new Slim\App();
-require '../src/routes.php';
+
+require __DIR__ . '/../src/dependencies.php';
+require __DIR__ . '/../src/routes.php';
 
 $router->run();
 
