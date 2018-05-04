@@ -1,0 +1,12 @@
+[2018-05-04 15:56:11] mvc_tutorial.INFO: Executando a função Fetch pela instância do ProductController [] {"uid":"2b3a512"}
+[2018-05-04 15:56:11] mvc_tutorial.INFO: Executando a função Fetch pela instância do ProductController [] {"uid":"2b3a512"}
+[2018-05-04 15:56:39] mvc_tutorial.INFO: Executando a função Fetch pela instância do ProductController [] {"uid":"d647759"}
+[2018-05-04 15:56:39] mvc_tutorial.INFO: Executando a função Fetch pela instância do Product [] {"uid":"d647759"}
+[2018-05-04 15:57:59] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"52d6bd9"}
+[2018-05-04 15:57:59] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"52d6bd9"}
+[2018-05-04 15:57:59] mvc_tutorial.INFO: Executando a função Fetch pela instância do ProductController [] {"uid":"52d6bd9"}
+[2018-05-04 15:57:59] mvc_tutorial.INFO: Executando a função Fetch pela instância do Product [] {"uid":"52d6bd9"}
+[2018-05-04 16:05:20] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"1a1d4a9"}
+[2018-05-04 16:05:20] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"1a1d4a9"}
+[2018-05-04 16:05:20] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"1a1d4a9"}
+[2018-05-04 16:05:20] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"1a1d4a9"}
