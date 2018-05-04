@@ -15,7 +15,7 @@ class Product
 
     public function fetch()
     {
-        $stm = $this->conn->query("select * from products");
+        $stm = $this->conn->query('select * from products');
 
         if ($stm) {
             return $stm->fetchAll();
@@ -41,8 +41,7 @@ class Product
     public function create($name)
     {
         $stm = $this->conn->prepare('insert into products(name) value(?)');
-
-        if ($stm->execute([$name])) {
+        if($stm->execute([$name])) {
             return $this->find($this->conn->lastInsertId());
         }
 
