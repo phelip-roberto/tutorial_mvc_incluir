@@ -10,3 +10,82 @@
 [2018-05-04 16:05:20] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"1a1d4a9"}
 [2018-05-04 16:05:20] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"1a1d4a9"}
 [2018-05-04 16:05:20] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"1a1d4a9"}
+[2018-05-07 08:44:30] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"a894978"}
+[2018-05-07 08:44:30] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"a894978"}
+[2018-05-07 08:44:30] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"a894978"}
+[2018-05-07 08:44:31] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"a894978"}
+[2018-05-07 08:45:00] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"8c03dac"}
+[2018-05-07 08:45:00] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"8c03dac"}
+[2018-05-07 08:45:00] mvc_tutorial.INFO: Executando a função Create com o Produto ProdutoTeste pela instância do controller ProductController [] {"uid":"8c03dac"}
+[2018-05-07 08:45:00] mvc_tutorial.INFO: Executando a função Find com o Id  pela instância da classe Product [] {"uid":"8c03dac"}
+[2018-05-07 08:45:00] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"8c03dac"}
+[2018-05-07 08:45:05] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"28f8b96"}
+[2018-05-07 08:45:05] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"28f8b96"}
+[2018-05-07 08:45:05] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"28f8b96"}
+[2018-05-07 08:45:05] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"28f8b96"}
+[2018-05-07 08:45:11] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"28a1bc6"}
+[2018-05-07 08:45:11] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"28a1bc6"}
+[2018-05-07 08:45:11] mvc_tutorial.INFO: Executando a função Find com o Id 2 pela instância do controller ProductController [] {"uid":"28a1bc6"}
+[2018-05-07 08:45:11] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"28a1bc6"}
+[2018-05-07 08:45:32] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"2b40ecb"}
+[2018-05-07 08:45:32] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"2b40ecb"}
+[2018-05-07 08:45:32] mvc_tutorial.INFO: Executando a função Update no Id 7 pela instância do controller ProductController [] {"uid":"2b40ecb"}
+[2018-05-07 08:45:32] mvc_tutorial.INFO: Executando a função Update no Id  pela instância da classe Product [] {"uid":"2b40ecb"}
+[2018-05-07 08:45:32] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"2b40ecb"}
+[2018-05-07 08:45:35] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"6806166"}
+[2018-05-07 08:45:35] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"6806166"}
+[2018-05-07 08:45:35] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"6806166"}
+[2018-05-07 08:45:35] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"6806166"}
+[2018-05-07 08:45:46] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"a71a257"}
+[2018-05-07 08:45:46] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"a71a257"}
+[2018-05-07 08:45:46] mvc_tutorial.INFO: Executando a função Delete no Id 7 pela instância do controller ProductController [] {"uid":"a71a257"}
+[2018-05-07 08:45:46] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"a71a257"}
+[2018-05-07 08:45:46] mvc_tutorial.INFO: Executando a função Delete no Id  pela instância da classe Product [] {"uid":"a71a257"}
+[2018-05-07 08:45:50] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"8c65de4"}
+[2018-05-07 08:45:50] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"8c65de4"}
+[2018-05-07 08:45:50] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"8c65de4"}
+[2018-05-07 08:45:50] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"8c65de4"}
+[2018-05-07 10:36:25] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"5fdceab"}
+[2018-05-07 10:36:25] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"5fdceab"}
+[2018-05-07 10:36:25] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"5fdceab"}
+[2018-05-07 10:36:25] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"5fdceab"}
+[2018-05-07 10:36:46] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"0bcb75c"}
+[2018-05-07 10:36:46] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"0bcb75c"}
+[2018-05-07 10:36:46] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"0bcb75c"}
+[2018-05-07 10:36:46] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"0bcb75c"}
+[2018-05-07 10:45:16] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"864c89d"}
+[2018-05-07 10:45:16] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"864c89d"}
+[2018-05-07 10:45:16] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"864c89d"}
+[2018-05-07 10:45:16] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"864c89d"}
+[2018-05-07 10:45:29] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"fa8d76d"}
+[2018-05-07 10:45:29] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"fa8d76d"}
+[2018-05-07 10:45:29] mvc_tutorial.INFO: Executando a função Create com o Produto ProdutoTeste pela instância do controller ProductController [] {"uid":"fa8d76d"}
+[2018-05-07 10:45:29] mvc_tutorial.INFO: Executando a função Find com o Id  pela instância da classe Product [] {"uid":"fa8d76d"}
+[2018-05-07 10:45:29] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"fa8d76d"}
+[2018-05-07 10:45:32] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"1b85337"}
+[2018-05-07 10:45:32] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"1b85337"}
+[2018-05-07 10:45:32] mvc_tutorial.INFO: Executando a função Find com o Id 8 pela instância do controller ProductController [] {"uid":"1b85337"}
+[2018-05-07 10:45:32] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"1b85337"}
+[2018-05-07 10:45:45] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"dd781f5"}
+[2018-05-07 10:45:45] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"dd781f5"}
+[2018-05-07 10:45:45] mvc_tutorial.INFO: Executando a função Update no Id 8 pela instância do controller ProductController [] {"uid":"dd781f5"}
+[2018-05-07 10:45:45] mvc_tutorial.INFO: Executando a função Update no Id  pela instância da classe Product [] {"uid":"dd781f5"}
+[2018-05-07 10:45:45] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"dd781f5"}
+[2018-05-07 10:45:50] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"460560f"}
+[2018-05-07 10:45:50] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"460560f"}
+[2018-05-07 10:45:50] mvc_tutorial.INFO: Executando a função Delete no Id 8 pela instância do controller ProductController [] {"uid":"460560f"}
+[2018-05-07 10:45:50] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"460560f"}
+[2018-05-07 10:45:50] mvc_tutorial.INFO: Executando a função Delete no Id  pela instância da classe Product [] {"uid":"460560f"}
+[2018-05-07 10:45:53] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"455e975"}
+[2018-05-07 10:45:53] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"455e975"}
+[2018-05-07 10:45:53] mvc_tutorial.INFO: Executando a função Find com o Id 2 pela instância do controller ProductController [] {"uid":"455e975"}
+[2018-05-07 10:45:53] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"455e975"}
+[2018-05-07 10:46:31] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"bd44e7c"}
+[2018-05-07 10:46:31] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"bd44e7c"}
+[2018-05-07 10:46:31] mvc_tutorial.INFO: Executando a função Update no Id 2 pela instância do controller ProductController [] {"uid":"bd44e7c"}
+[2018-05-07 10:46:31] mvc_tutorial.INFO: Executando a função Update no Id  pela instância da classe Product [] {"uid":"bd44e7c"}
+[2018-05-07 10:46:31] mvc_tutorial.INFO: Executando a função Create com o Produto  pela instância da classe Product [] {"uid":"bd44e7c"}
+[2018-05-07 11:01:38] mvc_tutorial.INFO: Instânciando Product! [] {"uid":"a532ad5"}
+[2018-05-07 11:01:38] mvc_tutorial.INFO: Instânciando ProductController! [] {"uid":"a532ad5"}
+[2018-05-07 11:01:38] mvc_tutorial.INFO: Executando a função Fetch pela instância do controller ProductController [] {"uid":"a532ad5"}
+[2018-05-07 11:01:38] mvc_tutorial.INFO: Executando a função Fetch pela instância da classe Product [] {"uid":"a532ad5"}
